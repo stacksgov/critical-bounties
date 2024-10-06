@@ -21,8 +21,13 @@ Critical Bounties focus on key infrastructure and tools necessary for the Stacks
   - Closed issues are either completed projects or applications that were not approved
 - Review our RFPs and consider submitting a proposal
 
+## Important Note
+
+- Applications submited through this repo by creating an issue will not be considered.
+
 ## More Information
 
-For more information about the Critical Bounties program, other grant/bounty opportunities, and to see if there are currently any Critical Bounty RFPs accepting applications, please visit https://stacks.org/grants.
+- For more information about the Critical Bounties program, other grant/bounty opportunities, and to see if there are currently any Critical Bounty RFPs accepting applications, please visit https://stacks.org/grants.
+- If you would like to suggest something to be considered as a Critical Bounty please contact us at programs@stacks.org
 
 We look forward to your contributions to the Stacks ecosystem!
