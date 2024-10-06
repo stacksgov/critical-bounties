@@ -1,6 +1,6 @@
 # Stacks Foundation Critical Bounties Program
 
-Welcome to the Stacks Foundation Critical Bounties Program repository. This program is designed to address specific ecosystem needs through targeted RFP (Request for Proposal) grants. For more information about the Critical Bounties program, other grant/bounty opportunities, and to see if there are currently any Critical Bounty RFPs accepting applications, please visit https://stacks.org/grants.
+Welcome to the Stacks Foundation Critical Bounties Program repository. This program is designed to address specific ecosystem needs through targeted RFP (Request for Proposal) grants. 
 
 ## About the Program
 
@@ -21,6 +21,8 @@ Critical Bounties focus on key infrastructure and tools necessary for the Stacks
   - Closed issues are either completed projects or applications that were not approved
 - Review our RFPs and consider submitting a proposal
 
+## More Information
 
+For more information about the Critical Bounties program, other grant/bounty opportunities, and to see if there are currently any Critical Bounty RFPs accepting applications, please visit https://stacks.org/grants.
 
 We look forward to your contributions to the Stacks ecosystem!
